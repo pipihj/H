@@ -19,4 +19,4 @@ RUN apt-get install -y openjdk-8-jre openjdk-8-jdk vim python3 python3-pip nmap 
     && chmod +x /tmp/init.sh
 
 EXPOSE 5005
-CMD ["/tmp/init.sh"]
+CMD ["/tmp/init.sh"]2
